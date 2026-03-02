@@ -1,103 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://www.molainvest.dk/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
   <url>
-    <loc>https://www.molainvest.dk/om-mig</loc>
+    <loc>https://www.molainvest.dk/om-mig.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.molainvest.dk/investeringer</loc>
+    <loc>https://www.molainvest.dk/investeringer.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
-    <loc>https://www.molainvest.dk/foredrag</loc>
+    <loc>https://www.molainvest.dk/foredrag.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://www.molainvest.dk/laering-og-sparring</loc>
+    <loc>https://www.molainvest.dk/laering-og-sparring.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://www.molainvest.dk/kontakt</loc>
+    <loc>https://www.molainvest.dk/kontakt.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
-    <loc>https://www.molainvest.dk/pitch-din-ide</loc>
+    <loc>https://www.molainvest.dk/pitch-din-ide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <!-- Artikler (SEO) -->
+
   <url>
-    <loc>https://www.molainvest.dk/investeringer/kjoe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.molainvest.dk/artikler.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
+
   <url>
-    <loc>https://www.molainvest.dk/investeringer/renbad</loc>
+    <loc>https://www.molainvest.dk/artikler/hvordan-man-pitcher-til-investorer.html</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.molainvest.dk/investeringer/scandimate</loc>
+    <loc>https://www.molainvest.dk/artikler/hvad-en-investor-kigger-efter-i-startups.html</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.molainvest.dk/investeringer/bloom-objects</loc>
+    <loc>https://www.molainvest.dk/artikler/hvordan-man-vaerdiansaetter-en-startup.html</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.molainvest.dk/investeringer/vinhuset</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.molainvest.dk/investeringer/bland-selv-fro</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.molainvest.dk/investeringer/bastant</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.molainvest.dk/investeringer/topix</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.molainvest.dk/investeringer/kristian-juul</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.molainvest.dk/investeringer/tickrmeter</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.molainvest.dk/investeringer/din-camp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.molainvest.dk/investeringer/elias</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.molainvest.dk/investeringer/peopl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+
 </urlset>
