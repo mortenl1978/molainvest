@@ -64,6 +64,12 @@
   </url>
 
   <url>
+    <loc>https://www.molainvest.dk/investeringer/cold-case-zero</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://www.molainvest.dk/artikler/hvordan-man-vaerdiansaetter-en-startup.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
